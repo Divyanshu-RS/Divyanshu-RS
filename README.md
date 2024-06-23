@@ -26,7 +26,7 @@
 # 📊 GitHub Stats:
 ![Divyanshu Ranjan Singh`s Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-RS&theme=github-compact&area=true&bg_color=ffff&color=000)
 <p><img align="left" src= "https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></p>
-<p>&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
+<p><img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
