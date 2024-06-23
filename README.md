@@ -28,7 +28,7 @@
 <p><img align="left" src= "https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></p>
 <p><img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
 <br>
-<p><img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-rs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </p>
+<p><img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Divyanshu-RS" alt="Divyanshu's trophies" /></a> </p>
 
