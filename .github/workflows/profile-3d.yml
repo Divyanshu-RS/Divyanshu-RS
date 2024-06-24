@@ -22,7 +22,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-         
-          runs:
-  using: 'node20'
-  main: 'main.js'
