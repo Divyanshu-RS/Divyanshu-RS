@@ -28,7 +28,7 @@
 
 <script src="https://embed.github.com/view/3d/Divyanshu-RS/skyline/master/Divyanshu-RS-2020.stl"></script>
 
-
+<a href="https://skyline.github.com/Divyanshu-RS/2024"><img src="./assets/2024.gif" alt="" width="auto" height="auto" /></a>
 <p><img align="left" src= "https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></p> <p> <p>
 <p><img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
 <br>
