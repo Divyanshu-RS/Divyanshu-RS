@@ -26,15 +26,9 @@
 # 📊 GitHub Stats:
 ![Divyanshu Ranjan Singh`s Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-RS&theme=github-compact&area=true&bg_color=ffff&color=000)
 
-<!--   skyline 
-<a href="https://skyline.github.com/Divyanshu-RS/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
+<skyline 
+<a href="https://skyline.github.com/Divyanshu-RS/2023"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
-<  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/Divyanshu-RS>
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Divyanshu-RS" width="auto"></img>
-<  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/Divyanshu-RS>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Divyanshu-RS&show-other-skills=true" width="auto"></img>
 
 <p><img align="left" src= "https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></p> <p> <p>
 <p><img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
