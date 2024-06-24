@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    env:
+      SETTING_JSON: "20" # Set SETTING_JSON to 20
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -17,8 +19,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user. Divyanshu-RS
-          git config user.email github-actions@github.com
+          git config user.name "Divyanshu-RS" # Corrected git config command
+          git config user.email "github-actions@github.com" # Corrected git config command
           git add -A .
           git commit -m "generated"
           git push
