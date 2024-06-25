@@ -33,10 +33,11 @@
 <p align= "center"><img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </p>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Divyanshu-RS" alt= "Divyanshu's trophies" /></a> </p>
+<br>
 
 <div align="center">
   
-<h3> 📄  Please check out my <a href="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/"> Portfolio </a> for more information about my experience and skills.</h3>
+<h3> 📄  If you would want further details about my background and abilities, please review my <a href="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/"> Portfolio </a> .</h3>
 
 </div>
 
