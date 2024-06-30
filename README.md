@@ -8,6 +8,7 @@
          <p align="center">
 <a href="https://www.linkedin.com/in/divyanshu-ranjan-singh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
                   <a href="https://x.com/DivyanshuRS999?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
+                  <a href="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
 
 </p>
 
