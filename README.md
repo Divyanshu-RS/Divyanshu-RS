@@ -29,7 +29,7 @@
 
 <a href="https://skyline.github.com/Divyanshu-RS/2024"><img src="./assets/2024.gif" alt="" width="auto" height="auto" /></a>
 <p align= "center"><img src= "https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></p> <p> <p>
-<p><img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
+<p align= "center"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
 <br>
 <p align= "center"><img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </p>
 <br>
