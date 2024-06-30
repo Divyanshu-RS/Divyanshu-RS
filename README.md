@@ -1,4 +1,4 @@
-![logo](https://github.com/Divyanshu-RS/Divyanshu-RS/blob/main/Divyanshu%20Git%20Banner%20gif.gif)
+![logo](https://github.com/Divyanshu-RS/Divyanshu-RS/blob/main/Divyanshu%20Banner%20For%20Github.gif)
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 
