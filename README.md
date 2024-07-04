@@ -16,7 +16,8 @@
 
  <p align="center"> 
  <a href="https://discord.com/users/1052578489401868321"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
-          
+ <a href="https://leetcode.com/u/Divyanshu0212/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"</a>
+<a href="https://discord.com/users/1052578489401868321"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
  </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Divyanshu-RS&style=flat-square&color=blue" alt=""></p>
