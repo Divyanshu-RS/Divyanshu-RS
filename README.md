@@ -21,7 +21,7 @@
  </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Divyanshu-RS&style=flat-square&color=blue" alt=""></p>
-         
+---       
 <h5 align="center">
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -43,9 +43,6 @@
 <br>
 <p align= "center"><img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Divyanshu-RS&theme=darkhub&no-frame=true&no-bg=true" alt= "Divyanshu's trophies" /></a> </p>
-<br>
-
 <div align="center">
 
 
@@ -63,9 +60,7 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Divyanshu-RS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  
 <h3> 📄  If you would want further details about my background and abilities, please review my <a href="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/"> Portfolio </a> .</h3>
 
 </div>
