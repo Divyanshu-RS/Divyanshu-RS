@@ -35,7 +35,7 @@
          
          
 #  💫 About Me:
-🔭 I'm a front-end web developer, crafting uniquely awesome online experiences..<br>💻 Skilled in HTML, CSS, and JS and currently learning React.<br>🌱 I enjoy learning new technologies.<br>📫 You can reach me at: divyanshuranjan.9999@gmail.com 
+🔭 I'm a Front-End Web Developer, crafting uniquely awesome online experiences..<br>💻 Skilled at Front-End Web Development and currently learning Data Analysis.<br>🌱 I enjoy learning new technologies.<br>📫 You can reach me at: divyanshuranjan.9999@gmail.com 
  
 
 # 💻 Tech Stack:
