@@ -12,9 +12,9 @@
 </p>
 
 # 🌐 Connect With Me:
-
 <p align="center"
 <h4>Below are the details to reach me out on Social Platforms!</h4>
+<br>
 <br>
 <a href="https://www.linkedin.com/in/divyanshu-ranjan-singh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
                   <a href="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a> 
@@ -46,11 +46,8 @@
 ![Divyanshu Ranjan Singh`s Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-RS&theme=github-compact&area=true&bg_color=ffff&color=000)
 <br>
 <p align= "center"><img src= "https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/></p> <p> <p>
-<br>
 <p align= "center"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
-<br>
 <p align= "center"><img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </p>
-<br>
 <div align="center">
 
 
@@ -63,9 +60,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Divyanshu-RS&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<p align="center"><img src="https://memer-new.vercel.app/" width="600" height="300"  /></p>
 
 ---
 
