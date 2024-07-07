@@ -21,10 +21,10 @@
  </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Divyanshu-RS&style=flat-square&color=blue" alt=""></p>
----
+
 <h5 align="center">
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
+##
 ###  💫 About Me:
 🔭 I'm a front-end web developer, crafting uniquely awesome online experiences..<br>💻 Skilled in HTML, CSS, and JS and currently learning React.<br>🌱 I enjoy learning new technologies.<br>📫 You can reach me at: divyanshuranjan.9999@gmail.com 
  
