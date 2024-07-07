@@ -58,7 +58,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Divyanshu-RS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height:;"/>
+<p align="center"><img src="https://memer-new.vercel.app/" width="600" height="300"  /></p>
 
 ---
 
