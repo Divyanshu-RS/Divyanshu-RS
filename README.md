@@ -6,7 +6,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Divyanshu Ranjan Singh   </h1>
-         
+         <h3> A passionate professional who continuously finds fulfillment in utilizing cutting-edge technology to create excellent, scalable solutions that have an influence. As a software and product developer, I invest a lot of time and energy into conceptually creating and testing products early in the process. I have strong problem-solving skills and can build software in a test-driven environment.</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/divyanshu-ranjan-singh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
                   <a href="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a> 
