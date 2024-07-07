@@ -39,7 +39,7 @@
 
 ![Divyanshu Ranjan Singh`s Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-RS&theme=github-compact&area=true&bg_color=ffff&color=000)
 
-<a href="https://skyline.github.com/Divyanshu-RS/2024"><img src="./assets/2024.gif" alt="" width="auto" height="auto" /></a>
+![](https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <p align= "center"><img src= "https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></p> <p> <p>
 <p align= "center"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
 <br>
@@ -59,7 +59,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Divyanshu-RS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height:;"/>
 
 ---
 
