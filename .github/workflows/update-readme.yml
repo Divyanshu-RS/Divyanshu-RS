@@ -14,8 +14,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Generate Calendar
-        uses: lowlighter/metrics@latest
+      - name: Half-Year Calendar
+        uses: Divyanshu-RS/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
