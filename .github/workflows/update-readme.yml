@@ -21,7 +21,6 @@ with:
   token: ${{ secrets.METRICS_TOKEN }}
   base: ""
   plugin_isocalendar: yes
-v
 
       - name: Commit and Push Changes
         env:
