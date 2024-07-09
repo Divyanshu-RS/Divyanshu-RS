@@ -1,19 +1,19 @@
-name: Generate Isometric Calendar
-
+name: Metrics
 on:
-  schedule:
-    # Runs at 12:00 UTC every Monday
-    - cron: "0 12 * * MON"
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
       - name: Half-year calendar
 uses: lowlighter/metrics@latest
 with:
@@ -21,31 +21,3 @@ with:
   token: ${{ secrets.METRICS_TOKEN }}
   base: ""
   plugin_isocalendar: yes
-
-      - name: Commit and Push Changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.plugin.isocalendar.svg
-          git commit -m "Updated isometric calendar"
-          git push
-
-      - name: Update README
-        run: |
-          # Insert the generated SVG into the README
-          sed -i '/<!-- START_SECTION:calendar -->/,/<!-- END_SECTION:calendar -->/c\
-          <!-- START_SECTION:calendar -->\n\
-          ![Isometric Calendar](./metrics.plugin.isocalendar.svg)\n\
-          <!-- END_SECTION:calendar -->' README.md
-
-      - name: Commit README Changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Updated README with new isometric calendar"
-          git push
