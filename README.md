@@ -58,8 +58,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!START_SECTION:calendar >
-<!END_SECTION:calendar>
+<!-- START_SECTION:calendar -->
+<!-- END_SECTION:calendar -->
+
 
 
 ### 🔝 Top Contributed Repo
