@@ -1,29 +1,20 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 18 * * *"  # Runs at 18:00 UTC daily
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
-    strategy:
-      matrix:
-        node-version: [20.x]   # Specify the version you want to use
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        with:
-          ref: main  # Specify the branch you want to check out if different
-
-      - name: Generate GitHub profile 3D contributions
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
       - name: Commit & Push
         run: |
           git config user.name Divyanshu-RS
