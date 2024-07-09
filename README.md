@@ -58,9 +58,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- START_SECTION:calendar -->
-<!-- END_SECTION:calendar -->
-
+<img src="https://github.com/Divyanshu-RS/Divyanshu-RS/blob/main/metrics.plugin.isocalendar.svg">
 
 
 ### 🔝 Top Contributed Repo
