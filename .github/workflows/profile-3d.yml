@@ -6,9 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
+  jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    strategy:
+      matrix:
+        node-version: [14.x]  # Replace with the version you need
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -19,6 +22,6 @@ jobs:
         run: |
           git config user.name Divyanshu-RS
           git config user.email divyanshuranjan.9999@gmail.com
-          git add -A .
-          git commit -m "generated"
+          git add -A
+          git commit -m "Generated GitHub profile 3D contribution graph"
           git push
