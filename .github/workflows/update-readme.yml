@@ -1,5 +1,11 @@
 name: Metrics
-
+ run: |
+    # Insert the generated SVG into the README
+    sed -i '/<!-- START_SECTION:calendar -->/,/<!-- END_SECTION:calendar -->/c\
+    <!-- START_SECTION:calendar -->\n\
+    ![Isometric Calendar](./metrics.plugin.isocalendar.svg)\n\
+    <!-- END_SECTION:calendar -->' README.md
+    
 on:
   # Schedule daily updates
   schedule:
