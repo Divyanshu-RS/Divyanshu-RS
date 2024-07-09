@@ -22,11 +22,14 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+        # Explicitly specify the Node.js version
+        with:
+          node-version: '16'  # Update to Node.js version 16 or higher
 
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token provided by GitHub Actions
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_isocalendar: yes
