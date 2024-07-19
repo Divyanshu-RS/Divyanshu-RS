@@ -46,7 +46,7 @@
 
 ![Divyanshu Ranjan Singh`s Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-RS&theme=github-compact&area=true&bg_color=ffff&color=000)
 <br>
-<p align= "center">  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&show_icons=true&include_all_commits=true&theme=Dark&hide_border=false" alt="Divyanshu's Github Stats" >
+<p align= "center">  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Divyanshu's Github Stats" >
 </p> 
 <p align= "center"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=dark&hide_border=false"/></p>
 <p align= "center"><img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
