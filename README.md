@@ -51,7 +51,7 @@
 </p> 
 <p align= "center"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=highcontrast&hide_border=false"/></p>
 <p align= "center"><img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=highcontrast&show_icons=true&hide_border=false&layout=donut"> 
-	
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Divyanshu-RS)](https://github.com/anuraghazra/github-readme-stats)	
 
 <div align="center">
 
