@@ -50,7 +50,7 @@
 <p align= "center">  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-RS&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" >
 </p> 
 <p align= "center"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu-RS&theme=highcontrast&hide_border=false"/></p>
-<p align= "center"><img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"> 
+<p align= "center"><img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-RS&theme=highcontrast&show_icons=true&hide_border=false&layout=donut"> 
 	
 
 <div align="center">
