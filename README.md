@@ -72,7 +72,7 @@
 <h3> 📄  If you would want further details about my background and abilities, please review my <a href="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/"> Portfolio </a> .</h3>
 
 </div>
-
+<br>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
 
 
