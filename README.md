@@ -25,6 +25,7 @@
  <p align="center"> 
  <a href="https://discord.com/users/1052578489401868321">  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href="https://leetcode.com/u/Divyanshu0212/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+          <a href="https://www.geeksforgeeks.org/user/divyanshu_ranjan_singh/"> <img src ="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 <a href="https://www.behance.net/ranjancinema"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href= "https://gitlab.com/DivyanshuRS"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  </p>
