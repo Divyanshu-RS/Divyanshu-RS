@@ -41,7 +41,7 @@
          
          
 #  💫 About Me:
-🔭 I'm a Front-End Web Developer, crafting uniquely awesome online experiences..<br>💻 Skilled at Front-End Web Development and currently learning Data Analysis.<br>🌱 I enjoy learning new technologies.<br>📫 You can reach me at: divyanshuranjan.9999@gmail.com 
+🔭 I'm a MERN Developer, crafting uniquely awesome online experiences..<br>💻 Skilled at MERN Web Development and currently learning Data Analysis.<br>🌱 I enjoy learning new technologies.<br>📫 You can reach me at: divyanshuranjan.9999@gmail.com 
  
 
 # 💻 Tech Stack:
