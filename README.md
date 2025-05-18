@@ -20,7 +20,7 @@
                   <a href="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
          <a href="https://x.com/DivyanshuRS999?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href ="https://www.instagram.com/the_patronus._.wizard?igsh=OGJnbGhpM2E3dHd6"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://medium.com/@divyanshuranjan.9999"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://medium.com/@divyanshuranjansingh"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
 </p>
 
